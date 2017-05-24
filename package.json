@@ -1,13 +1,11 @@
 {
-  "name": "eldiablo",
+  "name": "browser-automation",
   "version": "1.0.0",
   "description": "Quick proof of concept to do course exports.",
   "main": "index.js",
   "scripts": {
     "lint": "eslint index.js"
   },
-  "author": "Andrew Gremlich",
-  "license": "MIT",
   "babel": {
     "presets": [
       "latest"
@@ -54,4 +52,6 @@
     "prompt": "^1.0.0",
     "zombie": "^5.0.5"
   }
+  "author": "Andrew Gremlich",
+  "license": "MIT"
 }
